@@ -11,7 +11,7 @@ pipeline {
 
     environment {
         //TODO: Customize these variables for your environment
-        DEV_PROJECT = "rhel-tkgl-movies-dev"
+        DEV_PROJECT = "rhel-tksgl-movies-dev"
         STAGE_PROJECT = "rhel-tksgl-movies-stage"
         APP_GIT_URL = "https://github.com/lsgier/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com/repository/java"
